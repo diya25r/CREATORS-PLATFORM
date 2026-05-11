@@ -1,15 +1,1 @@
-# Creators Platform
-
-This repository is initialized with a starter file so you can create the first commit and push to GitHub.
-
-## Next steps
-
-1. Add your project files in this folder.
-2. Commit your changes:
-   ```powershell
-   git add .
-   git commit -m "Initial commit"
-   git push -u origin main
-   ```
-
-3. Replace or extend this README with your own project details.
+# Creators Platform\n\nA starter React + Vite project scaffold for your creators platform.\n\n## Getting started\n\nInstall dependencies:\n\n```powershell\nnpm install\n```\n\nRun the development server:\n\n```powershell\nnpm run dev\n```\n\nBuild for production:\n\n```powershell\nnpm run build\n```\n\nOpen the app in the browser and edit `src/App.jsx` to start building your platform.\n
